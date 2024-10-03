@@ -1,5 +1,5 @@
 # Fast-transient-low-dropout-regulator
-It's a Power management project
+It's an IEEE Analog design competition (Power management project)
 
 Specs:
 
