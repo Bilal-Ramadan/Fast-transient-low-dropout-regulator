@@ -3,7 +3,7 @@ It's an IEEE Analog design competition (Power management project)
 
 Specs:
 
-Technology: 45-nm CMOS
+Technology: 45-nm BiCMOS
 
 Supply Voltage: 2.4 V → 3.5 V
 
