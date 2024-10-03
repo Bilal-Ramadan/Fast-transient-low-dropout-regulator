@@ -23,8 +23,8 @@ Line regulation: < 2 mV
 
 Load regulation < 50 mV/A
 
-Power Supply Rejection at 1 MHz: > 30 dB
+Power Supply Rejection @1 MHz: > 30 dB
 
-Power Supply Rejection at 10 MHz: > 20 dB
+Power Supply Rejection @10 MHz: > 20 dB
 
 Designed using gm/id design methodology and simulated on Cadence virtuoso.
