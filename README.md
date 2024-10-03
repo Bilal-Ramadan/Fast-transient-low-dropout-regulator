@@ -1,4 +1,4 @@
-# Fast-transient-low-dropout-regulator
+# Fast-transient low-dropout regulator
 It's an IEEE Analog design competition (Power management project)
 
 Specs:
